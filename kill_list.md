@@ -2,6 +2,6 @@
 ﻿=========
 ﻿* Unused code 
 ﻿* Functions with side effects 
-﻿* Unformmated Code 
+﻿* Unformatted Code 
 ﻿* Repeated Code Block 
 ﻿* Bad variable names
