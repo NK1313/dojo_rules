@@ -3,5 +3,5 @@
 ﻿* Unused code 
 ﻿* Functions with side effects 
 ﻿* Unformatted Code 
-﻿* Repeated Code Block 
+﻿* Repeated code blocks
 ﻿* Bad variable names
